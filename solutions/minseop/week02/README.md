@@ -1,6 +1,7 @@
 # BOJ 2110. 공유기 설치
 
-- 문제: https://www.acmicpc.net/problem/2110
+- 문제 안내: [저장소의 2주차 공통 문서](../../../problems/week02/README.md)
+- 백준의 이전 공식 주소: https://www.acmicpc.net/problem/2110 (서비스 종료로 현재 접속 불가)
 - 난이도: solved.ac Gold IV
 - 구현 언어: C++17
 
